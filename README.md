@@ -8,17 +8,21 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
+<img src="public/Capture.PNG" alt="project-screenshot" />
+<p><h4>The website's homepage allows you to browse content and search for specific creators or videos..</h4></p>
 
-<img src="2" alt="project-screenshot" width="400" height="400/">
+<img src="public/2.PNG" alt="project-screenshot" />
+<p><h4>Video playback controls include options to adjust playback speed and resolution. Additionally, view and like counts are displayed, and similar videos are suggested below the video player..</h4></p>
 
-<img src="3" alt="project-screenshot" width="400" height="400/">
+<img src="public/3.PNG" alt="project-screenshot" />
+<p><h4>The information about the channel along with its published videos is displayed on its homepage.</h4></p>
 
-<img src="4" alt="project-screenshot" width="400" height="400/">
+<img src="public/4.PNG" alt="project-screenshot" />
+<p><h4>You can also search for a specific creator or video on the platform..</h4></p>
 
-<img src="5" alt="project-screenshot" width="400" height="400/">
+<img src="public/5.PNG" alt="project-screenshot" />
+<p><h4>I just wanted to remind you that you can switch to a particular genre on the home page as well. It's really easy to do - just click on the genre you're interested in and you'll see a list of related content</h4></p>
 
-<img src="" alt="project-screenshot" width="400" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
