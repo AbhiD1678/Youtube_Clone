@@ -1,41 +1,64 @@
-# Youtube_clone
-Youtube_Clone is a simple video sharing web application that allows users to upload, view, and share videos. This project is built using React.js, Node.js, Express.js, MongoDB, and Bootstrap.
-Link-[ad-mytube.netlify.app](https://ad-mytube.netlify.app/)
+<h1 align="center" id="title">YouTube Clone</h1>
 
-# Table of Contents
-Installation
-Usage
-Features
-Technologies
-Contributing
-License
+<p align="center"><img src="https://socialify.git.ci/AbhiD1678/Youtube_Clone/image?description=1&amp;font=Bitter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Formal%20Invitation&amp;theme=Auto" alt="project-image"></p>
 
-# Installation
-To install this project, simply clone this repository and run the following commands:
+<h2>🚀 Demo</h2>
 
-bash
-Copy code
+[https://ad-mytube.netlify.app/](https://ad-mytube.netlify.app/)
+
+<h2>Project Screenshots:</h2>
+
+<img src="" alt="project-screenshot" width="400" height="400/">
+
+<img src="2" alt="project-screenshot" width="400" height="400/">
+
+<img src="3" alt="project-screenshot" width="400" height="400/">
+
+<img src="4" alt="project-screenshot" width="400" height="400/">
+
+<img src="5" alt="project-screenshot" width="400" height="400/">
+
+<img src="" alt="project-screenshot" width="400" height="400/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Clone this repository</p>
+
+```
+git clone https://github.com/AbhiD1678/Youtube_Clone.git
+```
+
+<p>2. Navigate to the project directory</p>
+
+```
 cd Youtube_Clone
+```
+
+<p>3. Install dependencies</p>
+
+```
 npm install
+```
 
-# Usage
-To use this project, you can run the following command:
+<p>4. Start the development server</p>
 
-sql
-Copy code
+```
 npm start
-This will start the application on http://localhost:3000.
+```
 
-# Features
-Some of the key features of this project include:
+  
+  
+<h2>💻 Built with</h2>
 
+Technologies used in the project:
 
-Video uploading and viewing
-Like and dislike videos
-Commenting on videos
-Searching for videos
-Technologies
-This project uses the following technologies:
-React.js
-Material UI
-React router
+*   React
+*   React-Router-Dom
+*   Axios
+*   Material UI
+*   CSS
+*   RapidApi
+
+<h2>🛡️ License:</h2>
+
+This project is licensed under the MIT License
